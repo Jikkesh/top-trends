@@ -200,7 +200,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-serif text-lg text-charcoal mb-1">Address</h4>
-                  <p className="text-charcoal/70">123 Style Street, Fashion District<br />New York, NY 10001</p>
+                  <p className="text-charcoal/70">SHOP 1, Sastha Nagar 2nd St, Sowmya Nagar,<br />SOWMYANAGAR, Perumbakkam, Chennai, Tamil Nadu 600100</p>
                 </div>
               </div>
 
@@ -210,7 +210,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-serif text-lg text-charcoal mb-1">Phone</h4>
-                  <p className="text-charcoal/70">+91 98765 43210</p>
+                  <p className="text-charcoal/70">087785 97308</p>
                 </div>
               </div>
 
@@ -220,7 +220,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-serif text-lg text-charcoal mb-1">Email</h4>
-                  <p className="text-charcoal/70">hello@toptrends.in</p>
+                  <p className="text-charcoal/70">hello@toptrends.com</p>
                 </div>
               </div>
 
@@ -244,7 +244,7 @@ export default function Contact() {
             {/* Real map iframe would go here */}
             <iframe
               title="Google Maps"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731968459391!3d40.75889497932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1621530000000!5m2!1sen!2sus"
+              src="https://maps.google.com/maps?q=SHOP%201,%20Sastha%20Nagar%202nd%20St,%20Sowmya%20Nagar,%20SOWMYANAGAR,%20Perumbakkam,%20Chennai,%20Tamil%20Nadu%20600100&t=&z=15&ie=UTF8&iwloc=&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0, filter: 'grayscale(100%) opacity(0.8)' }}
